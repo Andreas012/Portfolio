@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    align-items: center;
+    height: 4rem;
+    padding-left: 1rem;
+}
+
+.darkmode-btn {
+    margin-left: auto;
+}
+
+.darkmode-container {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: 1rem;
+}
